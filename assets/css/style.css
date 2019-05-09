@@ -23,7 +23,6 @@ body{
   left: calc(50% - 30px);
 }
 .par-de-barreira{
-  width: 100%;
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -56,4 +55,5 @@ body{
   font-family: 'Pixel';
   font-size: 30px;
   color: white;
+  z-index: 1;
 }
